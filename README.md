@@ -104,33 +104,50 @@ Add the hotel name and the country as additional information in the hover messag
 #### Northern Hemisphere: Temperature vs. Latitude
 ![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/d60b8bc9-14db-4f8c-8632-8989bed9778a)
 
+Northern Hemisphere cities show a strong negative correlation between latitude and temperature with a correlation coefficient of -0.8536412535831224.
+
 
 #### Southern Hemisphere: Temperature vs. Latitude
 ![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/89cfa6d1-d885-4d1f-97d0-fa04efd50939)
+
+Southern Hemisphere cities show a weak postive correlation between latitude and temperature with a correlation coefficient of 0.1529383126859998.
 
 
 #### Northern Hemisphere: Humidity vs. Latitude
 ![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/25c42f69-6a09-4a69-af46-9eeb7768315e)
 
+Northern Hemisphere cities show a weak positive correlation between humidity and temperature with a correlation coefficient of 0.1529383126859998.
+
 
 #### Southern Hemisphere: Humidity vs. Latitude
 ![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/7e26b077-0c00-416e-9a95-ff278d2a93c8)
+
+Southern Hemisphere cities show a weak negative correlation between humidity and temperature with a correlation coefficient of -0.07388002463494117.
+
 
 
 #### Northern Hemisphere: Cloudiness vs. Latitude
 ![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/afdf2984-dee0-404e-88fa-33af3e648ee2)
 
+Northern Hemisphere cities show a weak positive correlation between cloudiness and temperature with a correlation coefficient of 0.1782710377102286.
+
 
 #### Southern Hemisphere: Cloudiness vs. Latitude
 ![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/5522ddf9-7038-4e10-b7e5-ba7b9ed313e4)
+
+Southern Hemisphere cities show a weak positive correlation between cloudiness and temperature with a correlation coefficient of 0.09154657701490135.
+
 
 
 #### Northern Hemisphere: Wind Speed vs. Latitude
 ![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/11aa4eab-2f50-45c8-b504-c6dd2a1fd299)
 
+Northern Hemisphere cities show a weak positive correlation between Wind Speed and temperature with a correlation coefficient of 0.23834230327372638.
 
 #### Southern Hemisphere: Wind Speed vs. Latitude
 ![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/25755cd2-f051-4b4c-9046-4aed73404329)
+
+Southern Hemisphere cities show a weak negative correlation between Wind Speed and temperature with a correlation coefficient of -0.06119779935026666.
 
 
 
