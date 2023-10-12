@@ -83,37 +83,71 @@ Add the hotel name and the country as additional information in the hover messag
 
 #### Cities Data generated
 
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/bd0ca6ea-5082-484e-84cc-2bd8510c63e3)
+
 #### Latitude vs. Temperature
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/2d641bd0-aa7f-4941-b04b-cd9b5744e353)
+
 
 #### Latitude vs. Humidity
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/e1382713-2d34-4e9f-819a-25faba1f3695)
+
 
 #### Latitude vs. Cloudiness
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/7ffb6e96-4fa4-442d-bd77-4b64d3761af5)
+
 
 #### Latitude vs. Wind Speed
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/2620a6ef-e621-49a0-8ed9-19d5121da6b8)
+
 
 #### Northern Hemisphere: Temperature vs. Latitude
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/d60b8bc9-14db-4f8c-8632-8989bed9778a)
+
 
 #### Southern Hemisphere: Temperature vs. Latitude
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/89cfa6d1-d885-4d1f-97d0-fa04efd50939)
+
 
 #### Northern Hemisphere: Humidity vs. Latitude
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/25c42f69-6a09-4a69-af46-9eeb7768315e)
+
 
 #### Southern Hemisphere: Humidity vs. Latitude
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/7e26b077-0c00-416e-9a95-ff278d2a93c8)
+
 
 #### Northern Hemisphere: Cloudiness vs. Latitude
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/afdf2984-dee0-404e-88fa-33af3e648ee2)
+
 
 #### Southern Hemisphere: Cloudiness vs. Latitude
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/5522ddf9-7038-4e10-b7e5-ba7b9ed313e4)
+
 
 #### Northern Hemisphere: Wind Speed vs. Latitude
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/11aa4eab-2f50-45c8-b504-c6dd2a1fd299)
+
 
 #### Southern Hemisphere: Wind Speed vs. Latitude
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/25755cd2-f051-4b4c-9046-4aed73404329)
+
 
 
 ### VacationPy
 
 #### Map that displays a point for every city from the csv file generated in Part 1.
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/1bbd5e43-dc70-4ed2-8413-ceb9a021cda0)
+
 
 #### Narrow down the data to find your ideal weather condition
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/9481f0d4-0e91-41c2-80f6-6e35a765a793)
+
 
 #### For each city, use the Geoapify API to find the first hotel located within 10,000 meters of your coordinates.
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/e11e8cfe-31ee-4efd-b54f-d09c42c0a33f)
+
+
 
 #### Hotel name and the country as additional information in the hover message for each city on the map.
+![image](https://github.com/ShubhangiBidkar/python-api-challenge/assets/38162670/2763f9f4-143a-445a-8e43-7e69f1c8bc7a)
